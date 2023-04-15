@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&display=swap');
+
+.parent {
+    border: none;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #fce354;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+
+}
+.btn{
+    border: none;
+    color: black;
+    background-color: white;
+    margin: 10px;
+    padding: 12px;
+    border-radius: 20px;
+    width: 150px;
+    
+}
+.parentone {
+    border: none;
+    margin: 10px;
+    padding: 50px;
+    text-align: center;
+    background-color:#3cf;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+.btnone{
+    border: none;
+    color: black;
+    background-color: white;
+    margin: 10px;
+    padding: 12px;
+    border-radius: 20px;
+    width: 150px;
+}
+.parenttwo{
+    border: none;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    background-color:#3cf;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+.btntwo{
+    border: none;
+    color: black;
+    background-color: white;
+    margin: 10px;
+    padding: 12px;
+    border-radius: 20px;
+    width: 150px;
+
+}
+.btn2{
+    border: none;
+    text-decoration: underline;
+    color: black;
+    background-color: #3cf;
+}
+.image{
+    text-align: right;
+    margin-left: 1000px;
+    height: 100px;
+}
+.parent3{
+    border: none;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    background-color:rgb(51, 231, 45);
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+.btn3{
+    border: none;
+    text-decoration: underline;
+    color: black;
+    background-color: rgb(51, 231, 45);;
+}
+.emoji{
+    width: 100px;
+    height: 100px;
+}
